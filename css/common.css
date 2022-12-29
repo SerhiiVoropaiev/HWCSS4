@@ -3,22 +3,23 @@
     color: #333333;
 }
 
-.container{
+.container {
     width: 940px;
     margin: 0 auto;
 }
 
-img{
+img {
     width: 100%;
     height: 100%;
 }
 
-.line{
+.line {
     width: 80px;
     height: 2px;
     background-color: white;
 }
-button{
+
+button {
     background: none;
     padding: 16px 32px;
     border-top: 1px solid #47474F;
@@ -33,7 +34,8 @@ button{
     text-align: center;
     color: #47474F;
 }
-h2{
+
+h2 {
     font-style: normal;
     font-weight: 400;
     font-size: 23px;
@@ -42,7 +44,8 @@ h2{
     text-transform: uppercase;
     color: #333333;
 }
-h3{
+
+h3 {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -51,7 +54,8 @@ h3{
     text-transform: uppercase;
     color: #333333;
 }
-.cardsGroupCardImg{
+
+.cardsGroupCardImg {
     width: 300px;
     height: 300px;
     margin-bottom: 38px;
